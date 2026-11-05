@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello! Привіт з віртуальної машини!"
+echo "Hello! Dmytro!"

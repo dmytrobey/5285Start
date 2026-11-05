@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello! Dmytro Bey!"
+echo "Hello! Devops!"
